@@ -1,16 +1,22 @@
-## Hi there 👋
+## About Me
+Hi there, I'm Mandy! I mainly make code hacks for New Super Mario Bros. Wii, the majority of the stuff on my account is related to that kind of
+stuff. Below you can find some links to notable NSMBW stuff I've done!
 
-<!--
-**MandyIGuess/MandyIGuess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+If you need to contact me for any reason, send me a DM on Discord at `mandyiguess`!
 
-Here are some ideas to get you started:
+### NSMBW Modding Links
+* **[NSMBW Code Patches][hooks]** - Collection of small code changes and patches I've made
+* **[NewerSMBW-Modding Repo][moddingRepo]** - Repository with various code hacks I've made, such as new features
+* **[NSMBW Documentation][doc]** - Repository containing documentation about various game classes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Other Links
+* **[YouTube Channel][yt]**
+* **[BlueSky][bsky]**
+
+<!-- nsmbw -->
+[hooks]: ./NSMBW-Code-Hooks.md
+[moddingRepo]: https://github.com/MandyIGuess/NewerSMBW-Modding
+[doc]: https://github.com/MandyIGuess/NSMBW-Documentation
+<!-- personal links -->
+[yt]: https://www.youtube.com/@mandyiguess0621
+[bsky]: https://bsky.app/profile/mandyiguess.bsky.social

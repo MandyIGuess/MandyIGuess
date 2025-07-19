@@ -6,7 +6,7 @@ If you need to contact me for any reason, send me a DM on Discord at `mandyigues
 
 ### NSMBW Modding Links
 * **[NSMBW Code Patches][hooks]** - Collection of small code changes and patches I've made
-* **[NewerSMBW-Modding Repo][moddingRepo]** - Repository with various code hacks I've made, such as new features
+* **[NSMBW-Modding Repo][moddingRepo]** - Repository with various code hacks I've made, such as new features
 * **[NSMBW Documentation][doc]** - Repository containing documentation about various game classes
 
 ### Other Links
@@ -15,7 +15,7 @@ If you need to contact me for any reason, send me a DM on Discord at `mandyigues
 
 <!-- nsmbw -->
 [hooks]: ./NSMBW-Code-Hooks.md
-[moddingRepo]: https://github.com/MandyIGuess/NewerSMBW-Modding
+[moddingRepo]: https://github.com/MandyIGuess/NSMBW-Modding
 [doc]: https://github.com/MandyIGuess/NSMBW-Documentation
 <!-- personal links -->
 [yt]: https://www.youtube.com/@mandyiguess0621
